@@ -8,8 +8,10 @@ Link - https://meme-generator-717e8.web.app
 
 Preview:
 
-![image](https://github.com/berina-majdancic/Meme-Generator/assets/106923174/6ece08c6-1be5-4f95-b228-0264e000d125)
+![image](https://github.com/berina-majdancic/Meme-Generator/assets/106923174/7e15a465-35c4-4920-a321-6edb3f0a77c5)
+
 
 Phone preview:
 
-![image](https://github.com/berina-majdancic/Meme-Generator/assets/106923174/e256e8a4-70c8-4d11-bf7e-623237e0a7a6)
+![image](https://github.com/berina-majdancic/Meme-Generator/assets/106923174/4ca181f5-2e8e-4897-8ed8-21b990fce1fc)
+
